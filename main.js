@@ -1,6 +1,6 @@
 /**
  * Unit 2 Summative Task - Geometry Helper
- * ICS3 - Mr. Brash 🐿️
+ * ICS3 - Mr. J 🐧
  * 
  * Read README.md and YOUR_Task.md 
  **/ 
