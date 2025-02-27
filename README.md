@@ -1,9 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tsXAzHXV)
 # Unit 2 Summative - Geometry Helper 📐
 
-##### ICS3 - Mr. Brash 🐿️
-
-
+##### ICS3 - Mr. J 🐧
 ## Review
 
 **At this point in the course we can:**
@@ -41,5 +39,4 @@ Feel free to modify the style and content of [index.html](./index.html) but you 
 
 <br>
 <br>
-
-🐿️
+🐧
